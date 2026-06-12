@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240">
+  <rect width="100%" height="100%" fill="#071025" />
+  <g font-family="Menlo, Monaco, monospace" font-size="13" fill="#e6eef8">
+    <text x="20" y="30" fill="#79c0ff">$ ./docpulse</text>
+    <text x="20" y="56">Enter choice: 8</text>
+    <text x="20" y="84" fill="#ffd580">Ranked documents (highest relevance first):</text>
+    <text x="20" y="112">1) ID: 1</text>
+    <text x="160" y="112">Title: Design Spec A</text>
+    <text x="520" y="112">Relevance: 85</text>
+
+    <text x="20" y="140">2) ID: 2</text>
+    <text x="160" y="140">Title: Engineering Notes</text>
+    <text x="520" y="140">Relevance: 70</text>
+
+    <text x="20" y="176" fill="#9ae6b4">Tip: Use menu to explore citation graph and compression suggestions.</text>
+  </g>
+</svg>
